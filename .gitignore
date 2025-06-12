@@ -1,0 +1,6 @@
+**/__pycache__/
+.lightning_studio/
+yolov8n.pt
+parking-space-detection-dataset/
+# ignore all .files in the root directory
+.*
